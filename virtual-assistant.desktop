@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Virtual Assistant
+Comment=A voice and text-based virtual assistant for Ubuntu
+Exec=/home/achhetri/Personal-Workspace/virtual-assitant/venv/bin/python /home/achhetri/Personal-Workspace/virtual-assitant/src/main.py
+Icon=/home/achhetri/Personal-Workspace/virtual-assitant/resources/icon.png
+Terminal=false
+Categories=Utility;Office;
+StartupNotify=true
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true

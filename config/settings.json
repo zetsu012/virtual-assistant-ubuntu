@@ -1,0 +1,28 @@
+{
+  "voice": {
+    "timeout": 5,
+    "language": "en-US",
+    "speech_rate": 150,
+    "enabled": true
+  },
+  "hotkeys": {
+    "voice_command": "<Ctrl>+<Alt>+V",
+    "text_command": "<Ctrl>+<Alt>+T"
+  },
+  "notifications": {
+    "enabled": true,
+    "duration": 3,
+    "sound_enabled": true
+  },
+  "general": {
+    "autostart": false,
+    "log_level": "INFO",
+    "theme": "light",
+    "auto_close_dialog": false
+  },
+  "commands": {
+    "confirm_dangerous": true,
+    "show_feedback": true,
+    "execution_timeout": 30
+  }
+}
